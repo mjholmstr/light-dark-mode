@@ -173,6 +173,12 @@ p {
 }
 
 /* Contact Section */
+.social-icons {
+  display: flex;
+  align-items: center;
+  margin: 100px 50px;
+}
+
 .fab {
   font-size: 100px;
   margin-right: 50px;
